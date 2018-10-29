@@ -40,4 +40,5 @@ To connect to the GUI, you will have to take the following steps:
 2. The Proxifier has to be active.
 3. Go to the [ESAT VM portal](https://vdi-portal.esat.kuleuven.be/ovirt-engine/userportal/) and start a VM. You may have to refresh first [top right corner].
 4. Click `Console` and open the file.
-5. Do not forget to power down your VM after you are done using it.
+5. (optional) For USB redirection, select usb devices to forward in remote viewer under the `file` menu.
+6. **Do not forget to power down your VM after you are done using it.**
